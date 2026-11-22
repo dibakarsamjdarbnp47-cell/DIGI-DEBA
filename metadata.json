@@ -1,0 +1,8 @@
+{
+  "name": "DIGI DEBA",
+  "description": "Unified AI Digital Creative, Media Production, Communication, Automation & Project Execution Workspace",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
